@@ -20,7 +20,6 @@ https://github.com/scottrab/Bikesharing1/blob/main/Stop%20Time%20by%20Gender.PNG
     
     --Males had the most rides with the largest amount of stoptimes during the week between 8-9am and 5-7pm.
 
-Type of user
 Subsribers took the most amount of rides.
 
 users weekday
@@ -30,6 +29,6 @@ august peak hours
 The peak hours in August were 8-9am and 5-7pm. 
 
 ## Summary
-Males had the largest amount of rides, especially the subscribers. The most popular times for a ride seem to be during rush hour on the weekdays (8-9am or 5-7pm). Additional visualizations that could take place would be to look at the duration of rides for non male users to target for marketing. Another visualization could be to show the number of new riders by gender and by date.
+Male subscribers take the most rides.  The most popular times for a ride seem to be during rush hour on the weekdays (8-9am or 5-7pm). Additional visualizations that could take place would be to look at the duration of rides for non male users to target for marketing. Another visualization could be to show the number of new riders by gender and by date.
 
 
