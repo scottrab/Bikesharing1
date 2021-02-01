@@ -4,11 +4,11 @@
 The purpose of this analysis was to show the length of time bikes were checked out by gender, the number of bike trips per rider & gender per hour, and the number of bike trips per user & gender for each day of week.
 
 ## Results
-![bikes.tripduration](bikes.tripduration.PNG)
+
 5 hours is the most common trip duration.
 
-drip duration by gender
-Males had the most amount of trips.
+https://github.com/scottrab/Bikesharing1/blob/main/Trip%20Duration%20by%20Gender.PNG
+Males (orange) had the most amount of trips.
 
 !stoptime
 The most popular stoptimes were during the week between 8-9am and 5-7pm.
