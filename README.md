@@ -20,10 +20,9 @@ https://github.com/scottrab/Bikesharing1/blob/main/Stop%20Time%20by%20Gender.PNG
     
     --Males had the most rides with the largest amount of stoptimes during the week between 8-9am and 5-7pm.
 
-Subsribers took the most amount of rides.
+https://github.com/scottrab/Bikesharing1/blob/main/subscriber%20and%20customer.PNG
 
-users weekday
-Male subscribers took the most rides.
+    --Male subscribers took the most rides.
 
 august peak hours
 The peak hours in August were 8-9am and 5-7pm. 
