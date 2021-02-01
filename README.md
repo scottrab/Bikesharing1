@@ -5,12 +5,15 @@ The purpose of this analysis was to show the length of time bikes were checked o
 
 ## Results
 https://github.com/scottrab/Bikesharing1/blob/main/bikes.tripduration.PNG
+
 5 hours is the most common trip duration.
 
 https://github.com/scottrab/Bikesharing1/blob/main/Trip%20Duration%20by%20Gender.PNG
+
 Males (orange) had the most amount of trips.
 
-!stoptime
+https://github.com/scottrab/Bikesharing1/blob/main/Stop%20times.PNG
+
 The most popular stoptimes were during the week between 8-9am and 5-7pm.
 
 stoptime by gender
